@@ -1,1 +1,2 @@
-# Plane-Estimation-Using-RANSAC
+## Plane-Estimation-using-RANSAC
+You are given a dataset includes some data points in R3. Your task is to estimate whether it represents a plane, line or something else. You must use the RANSAC for this task. Explain the way you selected your minimal sample set, number of iteration and the threshold level? It would be better to provide an analytical solution derivation as well as graphical interpretation.
